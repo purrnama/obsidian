@@ -1,7 +1,10 @@
-202308221642
-Status: #idea
-Tags: [[Digital Thinking and Innovation]]
-# Digital Ethics
+---
+date: 2023-08-22
+time: 16:42
+tags:
+  - Digital Thinking
+title: Digital Ethics
+---
 Learning to act on the code of ethics
 
 ### Ethics
@@ -17,5 +20,4 @@ Learning to act on the code of ethics
 - System of rules that tell us what we can and cannot do
 - Has legal action in place
 
----
-# References
+[[Digital Thinking and Innovation]]

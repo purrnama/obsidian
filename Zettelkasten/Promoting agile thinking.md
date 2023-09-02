@@ -1,8 +1,11 @@
-202308081839
-Status: #idea
-Tags: [[Agile Thinking]] 
-# Promoting agile thinking
-
+---
+date: 2023-08-08
+time: 18:39
+tags:
+  - Agile
+  - Thinking
+title: Promoting agile thinking
+---
 ### Positive attitude
 Are you looking at a situation as a problem or as an opportunity?
 ### Thirst for knowledge
@@ -13,5 +16,4 @@ Focus on what can be done with the resources you have available
 ### Willingness to fail
 Be willing to get up and learn from mistakes
 
----
-# References
+[[Agile Thinking]] 

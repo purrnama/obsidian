@@ -1,8 +1,11 @@
-202308221632
-Status: #idea
-Tags: [[System Thinking]] 
-# Characteristics of a system
-
+---
+date: 2023-02-22
+time: 16:32
+tags:
+  - System
+  - Thinking
+title: Characteristics of a system
+---
 ### Is it a heap or a system?
 Does removing components from a particular group affect the other components?
 
@@ -17,5 +20,5 @@ An example is the parts of a car. You can break apart the different components o
 ### Are we experiencing Déjà vu?
 Systems tend to behave in similar ways, despite being in completely different settings
 
----
-# References
+[[System Thinking]] 
+

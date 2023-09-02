@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c46d20b47ec578",
+        "id": "f95e2846920ae844",
         "type": "tabs",
         "children": [
           {
-            "id": "3d0c991beacedd94",
+            "id": "b72d51087e9719d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Characteristics of a system.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Protocols Models",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Characteristics of a system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Characteristics of a system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,18 +124,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Zettelkasten/Characteristics of a system.md"
+              }
+            }
+          },
+          {
+            "id": "a0abe83b658bcdaa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -138,36 +155,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d0c991beacedd94",
+  "active": "b72d51087e9719d4",
   "lastOpenFiles": [
-    "Zettelkasten/Digital Ethics.md",
-    "Zettelkasten/System thinking in today's organizations.md",
-    "Zettelkasten/Characteristics of a system.md",
-    "Zettelkasten/System thinking vs. Analysis.md",
-    "Zettelkasten/Frame.md",
-    "Zettelkasten/Issues in Domain of Healthcare.md",
-    "Zettelkasten/Data Link Layer.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Zettelkasten/Representing data using binary.md",
-    "Zettelkasten/Do not memorize.md",
+    "Zettelkasten/BSc in Software Engineering.md",
+    "Zettelkasten/Being aware of your way of thinking.md",
+    "Zettelkasten/Agile Thinking.md",
     "Zettelkasten/Academia.md",
-    "Zettelkasten/Is the signal the information?.md",
-    "Zettelkasten/Topology.md",
-    "Zettelkasten/Fiber Optic Cabling.md",
-    "Zettelkasten/Copper Cabling.md",
-    "Zettelkasten/Physical Layer.md",
-    "Zettelkasten/Analog and digital signals.md",
-    "Zettelkasten/Human analog to binary language.md",
-    "Zettelkasten/Data Representation.md",
-    "Zettelkasten/What matters in a group assignment.md",
-    "Zettelkasten/Our accustomed perception of the world.md",
-    "Zettelkasten/How to properly use AI for research.md",
-    "Zettelkasten/Why plagiarism is bad.md",
-    "Zettelkasten/What is a good idea?.md",
-    "Zettelkasten/There is NO easy degree.md",
     "Zettelkasten/Writing a report.md",
-    "Zettelkasten/How some solutions can cause more problems.md",
+    "Zettelkasten/Windows desktop analogy.md",
+    "Zettelkasten/Why plagiarism is bad.md",
+    "Zettelkasten/What matters in a group assignment.md",
+    "Zettelkasten/What is a good idea?.md",
+    "Zettelkasten/Value of coming to class.md",
+    "Zettelkasten/Topology.md",
+    "Zettelkasten/There is NO easy degree.md",
+    "Zettelkasten/Taking attendance as a security measure.md",
+    "Zettelkasten/System thinking vs. Analysis.md",
+    "Zettelkasten/System thinking in today's organizations.md",
+    "Zettelkasten/System Thinking in relation to Digital Thinking.md",
+    "Zettelkasten/System Thinking.md",
+    "Zettelkasten/System Decomposition.md",
+    "Zettelkasten/System Abstraction.md",
+    "Zettelkasten/Student and Lecture's desire.md",
+    "Zettelkasten/Simplify things.md",
+    "Zettelkasten/Representing data using binary.md",
+    "Zettelkasten/Quote by Bruce Nussbaum.md",
+    "Zettelkasten/Protocols and Models.md",
+    "Zettelkasten/Promoting agile thinking.md",
+    "Zettelkasten/Physical Layer.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Files/Screenshot from 2023-08-08 10-54-50.png",
     "OSI and TCP",
     "Templates",

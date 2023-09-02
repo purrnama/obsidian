@@ -1,8 +1,9 @@
-202308081832
-Status: #idea
-Tags: [[Digital Thinking and Innovation]]
-# Agile Thinking
-
+---
+date: 2023-08-08
+time: 18:32
+tags: []
+title: Agile Thinking
+---
 Way of thinking that enables the ability to respond to change or solve problems quickly and easily
 
 - Take everything as lessons
@@ -11,5 +12,4 @@ Way of thinking that enables the ability to respond to change or solve problems 
 
 For example, during the Covid-19 pandemic, businesses must adapt to new and challenging conditions in order to keep themselves afloat.
 
----
-# References
+[[Digital Thinking and Innovation]]

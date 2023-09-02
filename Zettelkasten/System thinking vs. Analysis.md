@@ -1,8 +1,11 @@
-202308221629
-Status: #idea
-Tags: [[System Thinking]]
-# System thinking vs. Analysis
-
+---
+date: 2023-08-22
+time: 16:29
+tags:
+  - System
+  - Thinking
+title: System thinking vs. Analysis
+---
 Analysis is the process of breaking down something into smaller components to better understand it. It feels similar to systems thinking but has a few key assumptions:
 
 - The world stands still when we study it
@@ -11,5 +14,4 @@ Analysis is the process of breaking down something into smaller components to be
 
 System thinking is looking at a system as a whole, considering 1 outcome will affect components in the entire system.
 
----
-# References
+[[System Thinking]]

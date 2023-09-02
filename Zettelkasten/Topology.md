@@ -1,7 +1,12 @@
-202308212302
-Status: #idea
-Tags: [[Data Link Layer]] 
-# Topology
+---
+date: 2023-08-21
+time: 23:02
+tags:
+  - Data
+  - Link
+  - Layer
+title: Topology
+---
 Topology is the diagram of a network, and how devices are connected to each other
 
 #### WAN Topologies
@@ -17,5 +22,4 @@ Not used anymore, and don't answer with these
 - Bus
 - Ring
 
----
-# References
+[[Data Link Layer]] 

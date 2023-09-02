@@ -1,9 +1,10 @@
-202308040117
-Status: #idea
-Tags: [[OSCA]] 
-# System Thinking
-
+---
+date: 2023-08-04
+time: 01:17
+tags:
+  - OSCA
+title: System Thinking
+---
 Defining the world by classification
 
----
-# References
+[[OSCA]] 

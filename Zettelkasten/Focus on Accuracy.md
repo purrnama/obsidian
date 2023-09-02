@@ -1,8 +1,10 @@
-202308040122
-Status: #idea
-Tags: [[Programming]] [[Problem Solving]] 
-# Focus on Accuracy
-
+---
+date: 2023-08-04
+time: 01:22
+tags:
+  - Programming
+title: Focus on Accuracy
+---
 Make sure the problem statement is clear
 If not:
 - Ask the user/client/system analyst for clarification
@@ -13,5 +15,4 @@ Validate your data
 
 You should be the one asking the questions
 
----
-# References
+[[Programming]] [[Problem Solving]] 

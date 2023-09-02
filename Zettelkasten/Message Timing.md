@@ -1,8 +1,10 @@
-202308080955
-Status: #idea
-Tags: [[Protocols and Models]]
-# Message Timing
-
+---
+date: 2023-08-08
+time: 09:55
+tags:
+  - Protocols
+title: Message Timing
+---
 There are many aspects of message timings that need consideration
 ## Flow control
 How much or how fast information can be sent between devices.
@@ -17,5 +19,4 @@ Control when someone could send a message at a given time in order to prevent co
 
 Similar to talking in real life, one should wait for the other person to finish talking in order to communicate properly.
 
----
-# References
+[[Protocols and Models]]

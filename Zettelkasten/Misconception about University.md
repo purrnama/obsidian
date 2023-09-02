@@ -1,7 +1,10 @@
-202308040055
-Status: #idea
-Tags: [[University Life]]
-# Misconception about University
+---
+date: 2023-08-04
+time: 00:55
+tags:
+  - University Life
+title: Misconception about University
+---
 Not just education, but socializing as well
 ## As a student
 - Deal with people with different types and attitudes
@@ -12,5 +15,4 @@ Not just education, but socializing as well
 - Understand the environment
 - Build tools to help solve problems in the environment
 
----
-# References
+[[University Life]]

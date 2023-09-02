@@ -1,8 +1,11 @@
-202308160922
-Status: #idea
-Tags: [[OSCA]] [[Academia]] 
-# What is a good idea?
-
+---
+date: 2023-08-16
+time: 09:22
+tags:
+  - OSCA
+  - Academia
+title: What is a good idea?
+---
 What counts a good idea? Is it because it brings a lot of benefit? How does it bring a lot of benefit?
 
 A good idea may bring benefit according to one group of people, but it may not necessarily be good for another group of people.
@@ -13,5 +16,4 @@ Therefore, things are good because it meets a certain criteria *that you set*.
 
 In academia, you have to establish these criteria in order to explain how things are good and bad.
 
----
-# References
+[[OSCA]] [[Academia]] 

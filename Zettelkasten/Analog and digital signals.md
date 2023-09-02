@@ -1,8 +1,11 @@
-202308171543
-Status: #idea
-Tags: [[Data Representation]]
-# Analog and digital signals
-
+---
+date: 2023-08-12
+time: 15:43
+tags:
+  - Data
+  - Representation
+title: Analog and digital signals
+---
 Analog signals exist in the real world and they have indefinite values.
 
 Digital signals are used in computers and they have discrete values.
@@ -13,5 +16,4 @@ The hand of an analog clock may show that its pointing at a certain minute, but 
 
 In a digital clock, you know exactly what time it is right now, either 9:15 or 9:16, but never in between. That means the values are discrete.
 
----
-# References
+[[Data Representation]]

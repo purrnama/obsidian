@@ -1,8 +1,11 @@
-202308221640
-Status: #idea
-Tags: [[System Thinking]] 
-# System thinking in today's organizations
-
+---
+date: 2023-08-22
+time: 16:40
+tags:
+  - System
+  - Thinking
+title: System thinking in today's organizations
+---
 By utilizing system thinking, the practitioner can:
 - better understand the context within which they operate
 - bring together different stakeholders
@@ -12,5 +15,4 @@ The benefits are:
 - Explore new business opportunities
 - Redesign broken systems
 
----
-# References
+[[System Thinking]] 

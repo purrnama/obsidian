@@ -1,8 +1,11 @@
-202308171538
-Status: #idea
-Tags: [[Data Representation]]
-# Representing data using binary
-
+---
+date: 2023-08-17
+time: 15:38
+tags:
+  - Data
+  - Representation
+title: Representing data using binary
+---
 Binary only has 2 values, 0 and 1
 
 0
@@ -28,5 +31,4 @@ You can represent 256 values using bytes
 
 This is basically how ASCII works
 
----
-# References
+[[Data Representation]]
