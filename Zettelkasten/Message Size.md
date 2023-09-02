@@ -5,6 +5,7 @@ tags:
   - Protocols
 title: Message Size
 ---
+
 Long messages need to be split into smaller pieces in the form of packets
 
-[[Protocols and Models]] 
+[[Protocols and Models]]

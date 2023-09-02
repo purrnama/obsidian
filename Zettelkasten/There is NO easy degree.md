@@ -2,11 +2,11 @@
 date: 2023-08-08
 time: 09:41
 tags:
-  - University
-  - Life
+  - University Life
   - Academia
 title: There is NO easy degree
 ---
+
 All degree programs regardless of subject comes with their own sets of difficulties and challenges, and none of them are an easy way forward.
 
 What matters is that you know your interests and objectives, and have the right mentality.

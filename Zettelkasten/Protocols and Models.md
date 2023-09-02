@@ -5,6 +5,7 @@ tags:
   - Networking
 title: Protocols and Models
 ---
+
 Protocols are ground rules that devices must follow in order to communicate with each other in a network.
 
-[[Networking]] 
+[[Networking]]

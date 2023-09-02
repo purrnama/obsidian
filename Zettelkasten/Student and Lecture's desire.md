@@ -2,11 +2,11 @@
 date: 2023-08-04
 time: 08:30
 tags:
-  - University
-  - Life
+  - University Life
   - Learning
 title: Student and Lecture's desire
 ---
+
 A lecturer wants every student to succeed.
 When a student fails, there will be punishment for the lecturer in the form of redoing the lectures again for the failed students without extra pay.
 

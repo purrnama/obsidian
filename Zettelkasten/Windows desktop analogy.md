@@ -5,6 +5,7 @@ tags:
   - OSCA
 title: Windows desktop analogy
 ---
+
 Windows approaches system design through an analog of working in an office.
 
 That's why they got the name Microsoft Office.

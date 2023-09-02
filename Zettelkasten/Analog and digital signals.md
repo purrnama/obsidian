@@ -2,10 +2,10 @@
 date: 2023-08-12
 time: 15:43
 tags:
-  - Data
-  - Representation
+  - Data Representation
 title: Analog and digital signals
 ---
+
 Analog signals exist in the real world and they have indefinite values.
 
 Digital signals are used in computers and they have discrete values.

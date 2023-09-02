@@ -4,6 +4,7 @@ time: 18:32
 tags: []
 title: Agile Thinking
 ---
+
 Way of thinking that enables the ability to respond to change or solve problems quickly and easily
 
 - Take everything as lessons

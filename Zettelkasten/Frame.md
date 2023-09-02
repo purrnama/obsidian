@@ -6,9 +6,11 @@ tags:
   - Ethernet
 title: Frame
 ---
+
 Packets are encapsulated in a frame that contains the necessary data for transmitting between devices. A frame consists of a header and a trailer.
 
 ### Header
+
 - Frame start: indicating the start of a frame
 - Addressing: Addresses of sending and receiving device
 - Type:
@@ -17,10 +19,12 @@ Packets are encapsulated in a frame that contains the necessary data for transmi
 In between header and trailer is the data
 
 ### Trailer
+
 - Error detection
 - Frame stop
 
 ## Frame Size
+
 Minimum: 64 bytes
 Maximum: 1518 bytes
 

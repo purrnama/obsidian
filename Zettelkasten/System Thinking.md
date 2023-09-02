@@ -5,6 +5,7 @@ tags:
   - OSCA
 title: System Thinking
 ---
+
 Defining the world by classification
 
-[[OSCA]] 
+[[OSCA]]

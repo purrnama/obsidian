@@ -5,6 +5,7 @@ tags:
   - Protocols
 title: Message Delivery
 ---
+
 To how many devices will your message be delivered.
 
 Unicast - 1 devices
@@ -13,4 +14,4 @@ Broadcast - all devices
 
 that's how broadcast got its name
 
-[[Protocols and Models]] 
+[[Protocols and Models]]

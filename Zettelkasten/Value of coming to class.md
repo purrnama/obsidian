@@ -2,11 +2,11 @@
 date: 2023-08-04
 time: 08:02
 tags:
-  - University
-  - Life
+  - University Life
   - Learning
 title: Value of coming to class
 ---
+
 A lecturer is a friend who guides you and facilitates your learning, but they don't force you to learn things.
 
 Coming to class gives you the guidance you need to jump start your learning. Do not be afraid to ask questions so that you can maximally utilize the lecture time.

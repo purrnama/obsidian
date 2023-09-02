@@ -2,10 +2,10 @@
 date: 2023-08-04
 time: 15:09
 tags:
-  - System
-  - Thinking
+  - System Thinking
 title: Our accustomed perception of the world
 ---
+
 We are accustomed to the knowledge that things are classified by their different attributes, and some things that are almost similar to each other are considered to be related.
 
 One might argue that they are just as different from a turtle just like they are different from the person sitting next to them, if we remove the classification altogether.

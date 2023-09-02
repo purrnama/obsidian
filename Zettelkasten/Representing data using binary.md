@@ -2,10 +2,10 @@
 date: 2023-08-17
 time: 15:38
 tags:
-  - Data
-  - Representation
+  - Data Representation
 title: Representing data using binary
 ---
+
 Binary only has 2 values, 0 and 1
 
 0

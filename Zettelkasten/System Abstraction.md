@@ -2,10 +2,10 @@
 date: 2023-08-04
 time: 01:20
 tags:
-  - System
-  - Thinking
+  - System Thinking
 title: System Abstraction
 ---
+
 - Hide or remove certain components from the system
 - Also makes things simpler to understand
 
