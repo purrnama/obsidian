@@ -1,5 +1,5 @@
 ---
-id: 202308081835
+id: "202308081835"
 title: Being aware of your way of thinking
 ---
 

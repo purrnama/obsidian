@@ -1,5 +1,5 @@
 ---
-id: 202309042050
+id: "202309042050"
 title: Aristotle - Father of Logic
 ---
 
