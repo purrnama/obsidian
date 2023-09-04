@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f95e2846920ae844",
+        "id": "c3d6904ad74a9f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "b72d51087e9719d4",
+            "id": "1f4dd08a58a14609",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Characteristics of a system.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Characteristics of a system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Characteristics of a system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Characteristics of a system.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72d51087e9719d4",
+  "active": "1f4dd08a58a14609",
   "lastOpenFiles": [
+    "Zettelkasten/Subnetting.md",
+    "Zettelkasten/Importance of a truth table.md",
+    "Zettelkasten/Aristotle - Father of Logic.md",
+    "Zettelkasten/Logic gates.md",
+    "Zettelkasten/Digital Ethics.md",
+    "Zettelkasten/Surviving skill.md",
+    "Templates/Core Zettel Idea.md",
+    "Zettelkasten/Characteristics of a system.md",
     "Zettelkasten/BSc in Software Engineering.md",
     "Zettelkasten/Being aware of your way of thinking.md",
     "Zettelkasten/Agile Thinking.md",
@@ -175,14 +175,6 @@
     "Zettelkasten/System Thinking in relation to Digital Thinking.md",
     "Zettelkasten/System Thinking.md",
     "Zettelkasten/System Decomposition.md",
-    "Zettelkasten/System Abstraction.md",
-    "Zettelkasten/Student and Lecture's desire.md",
-    "Zettelkasten/Simplify things.md",
-    "Zettelkasten/Representing data using binary.md",
-    "Zettelkasten/Quote by Bruce Nussbaum.md",
-    "Zettelkasten/Protocols and Models.md",
-    "Zettelkasten/Promoting agile thinking.md",
-    "Zettelkasten/Physical Layer.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Files/Screenshot from 2023-08-08 10-54-50.png",
