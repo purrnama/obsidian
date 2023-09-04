@@ -1,8 +1,5 @@
 ---
-date: 2023-08-21
-time: 22:44
-tags:
-  - Physical Layer
+id: "202308212244"
 title: Physical Layer
 ---
 

@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 01:22
-tags:
-  - Programming
+id: "202308040122"
 title: Focus on Accuracy
 ---
 

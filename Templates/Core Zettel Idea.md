@@ -2,8 +2,6 @@
 
 ---
 ---
-date: {{date:YYYY-MM-DD}}
-time: {{time:HH:mm}}
-tags:
+id: {{date:YYYYMMDD}}{{time:HH:mm}}
 title: {{title}}
 ---

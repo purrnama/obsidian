@@ -1,8 +1,5 @@
 ---
-date: 2023-09-02
-time: 14:55
-tags:
-  - Physical Layer
+id: "202309021455"
 title: Fiber Optic Cabling
 ---
 

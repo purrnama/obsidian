@@ -1,8 +1,5 @@
 ---
-date: 2023-02-22
-time: 16:32
-tags:
-  - System Thinking
+id: "202302221632"
 title: Characteristics of a system
 ---
 

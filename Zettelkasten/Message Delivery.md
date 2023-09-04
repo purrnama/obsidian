@@ -1,8 +1,5 @@
 ---
-date: 2023-09-02
-time: 15:03
-tags:
-  - Protocols
+id: "202309021503"
 title: Message Delivery
 ---
 

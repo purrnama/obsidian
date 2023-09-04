@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 18:39
-tags:
-  - Agile Thinking
+id: "202308081839"
 title: Promoting agile thinking
 ---
 

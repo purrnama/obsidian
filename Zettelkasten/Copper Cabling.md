@@ -1,8 +1,5 @@
 ---
-date: 2023-08-21
-time: 12:47
-tags:
-  - Physical Layer
+id: "202308211247"
 title: Copper Cabling
 ---
 

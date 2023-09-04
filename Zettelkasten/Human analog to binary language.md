@@ -1,8 +1,5 @@
 ---
-date: 2023-08-17
-time: 15:37
-tags:
-  - Data Representation
+id: "202308171537"
 title: Human analog to binary language
 ---
 

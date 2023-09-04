@@ -1,8 +1,5 @@
 ---
-date: 2023-08-16
-time: 15:00
-tags:
-  - System Thinking
+id: "202308161500"
 title: How some solutions can cause more problems
 ---
 

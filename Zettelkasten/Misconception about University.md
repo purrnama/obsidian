@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 00:55
-tags:
-  - University Life
+id: "202308040055"
 title: Misconception about University
 ---
 

@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 09:45
-tags:
-  - Networking
+id: "202308080945"
 title: Protocols and Models
 ---
 

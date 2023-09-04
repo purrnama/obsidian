@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 01:06
-tags:
-  - University Life
+id: "202308040106"
 title: Outcome-based Learning
 ---
 

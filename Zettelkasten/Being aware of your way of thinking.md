@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 18:35
-tags:
-  - Agile Thinking
+id: 202308081835
 title: Being aware of your way of thinking
 ---
 

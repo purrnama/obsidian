@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 10:42
-tags:
-  - Protocols
+id: "202308081042"
 title: OSI and TCP-IP Layered Model
 ---
 

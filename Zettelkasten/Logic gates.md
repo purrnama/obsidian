@@ -1,9 +1,8 @@
 ---
-date: 2023-09-04
-time: 20:47
-tags:
+id: "202309042047"
 title: Logic gates
 ---
+
 What does it mean to think logically?
 
 It is a systematic way of thinking based on the process of thought

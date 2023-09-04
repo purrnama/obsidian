@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 09:54
-tags:
-  - Protocols
+id: "202308080954"
 title: Message Size
 ---
 

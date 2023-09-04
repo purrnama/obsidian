@@ -1,9 +1,8 @@
 ---
-date: 2023-09-04
-time: 20:50
-tags:
+id: 202309042050
 title: Aristotle - Father of Logic
 ---
+
 If you show a young child two squares of different sizes and ask them which of them are bigger, could the child answer?
 
 First of all, what is "bigger"? The child needs to understand the concept of size.

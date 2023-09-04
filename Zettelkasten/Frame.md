@@ -1,9 +1,5 @@
 ---
-date: 2023-08-22
-time: 16:22
-tags:
-  - Data Link Layer
-  - Ethernet
+id: "202308221622"
 title: Frame
 ---
 

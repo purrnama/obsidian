@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 09:36
-tags:
-  - Learning
+id: "202308080936"
 title: Do not memorize
 ---
 

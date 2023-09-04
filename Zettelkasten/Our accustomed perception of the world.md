@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 15:09
-tags:
-  - System Thinking
+id: "202308041509"
 title: Our accustomed perception of the world
 ---
 

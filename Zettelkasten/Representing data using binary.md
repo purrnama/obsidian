@@ -1,8 +1,5 @@
 ---
-date: 2023-08-17
-time: 15:38
-tags:
-  - Data Representation
+id: "202308171538"
 title: Representing data using binary
 ---
 

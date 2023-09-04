@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 09:38
-tags:
-  - Learning
+id: "202308080938"
 title: Simplify things
 ---
 

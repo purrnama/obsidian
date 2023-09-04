@@ -1,9 +1,5 @@
 ---
-date: 2023-08-04
-time: 08:30
-tags:
-  - University Life
-  - Learning
+id: "202308040830"
 title: Student and Lecture's desire
 ---
 

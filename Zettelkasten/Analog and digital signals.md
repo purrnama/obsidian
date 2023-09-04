@@ -1,8 +1,5 @@
 ---
-date: 2023-08-12
-time: 15:43
-tags:
-  - Data Representation
+id: "202308121543"
 title: Analog and digital signals
 ---
 

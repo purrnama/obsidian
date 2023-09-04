@@ -1,7 +1,5 @@
 ---
-date: 2023-08-17
-time: 15:35
-tags: []
+id: "202308171535"
 title: Data Representation
 ---
 

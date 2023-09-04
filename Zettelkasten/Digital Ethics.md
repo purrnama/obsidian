@@ -1,8 +1,5 @@
 ---
-date: 2023-08-22
-time: 16:42
-tags:
-  - Digital Thinking
+id: "202308221642"
 title: Digital Ethics
 ---
 

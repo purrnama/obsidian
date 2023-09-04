@@ -1,8 +1,5 @@
 ---
-date: 2023-08-17
-time: 15:48
-tags:
-  - Data Representation
+id: "202308171548"
 title: Is the signal the information?
 ---
 

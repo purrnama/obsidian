@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 18:30
-tags:
-  - Quote
+id: "202308081830"
 title: Quote by Bruce Nussbaum
 ---
 

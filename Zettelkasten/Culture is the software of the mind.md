@@ -1,8 +1,5 @@
 ---
-date: 2023-08-08
-time: 09:32
-tags:
-  - IACD
+id: "202308080932"
 title: Culture is the software of the mind
 ---
 

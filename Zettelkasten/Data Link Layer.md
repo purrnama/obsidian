@@ -1,8 +1,5 @@
 ---
-date: 2023-08-21
-time: 12:57
-tags:
-  - Data Link Layer
+id: "202308211257"
 title: Data Link Layer
 ---
 

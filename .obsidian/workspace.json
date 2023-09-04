@@ -11,8 +11,12 @@
             "id": "1f4dd08a58a14609",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Making friendships feel like a chore.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Making friendships feel like a chore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Making friendships feel like a chore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Making friendships feel like a chore.md"
+              }
             }
           },
           {
-            "id": "a0abe83b658bcdaa",
+            "id": "79aff481d6d6722e",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -149,34 +157,35 @@
   },
   "active": "1f4dd08a58a14609",
   "lastOpenFiles": [
+    "Zettelkasten/Is the signal the information?.md",
+    "Zettelkasten/How to properly use AI for research.md",
+    "Zettelkasten/Do not memorize.md",
+    "Zettelkasten/Data Link Layer.md",
+    "Zettelkasten/Characteristics of a system.md",
+    "Zettelkasten/Analog and digital signals.md",
+    "Zettelkasten/Agile Thinking.md",
+    "Zettelkasten/Academia.md",
+    "Zettelkasten/Making friendships feel like a chore.md",
+    "Zettelkasten/Untitled.md",
+    "Templates/Core Zettel Idea.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Zettelkasten/Digital Thinking and Innovation.md",
+    "Zettelkasten/Tips for networking assignment.md",
     "Zettelkasten/Subnetting.md",
     "Zettelkasten/Importance of a truth table.md",
     "Zettelkasten/Aristotle - Father of Logic.md",
     "Zettelkasten/Logic gates.md",
     "Zettelkasten/Digital Ethics.md",
     "Zettelkasten/Surviving skill.md",
-    "Templates/Core Zettel Idea.md",
-    "Zettelkasten/Characteristics of a system.md",
     "Zettelkasten/BSc in Software Engineering.md",
     "Zettelkasten/Being aware of your way of thinking.md",
-    "Zettelkasten/Agile Thinking.md",
-    "Zettelkasten/Academia.md",
     "Zettelkasten/Writing a report.md",
     "Zettelkasten/Windows desktop analogy.md",
     "Zettelkasten/Why plagiarism is bad.md",
     "Zettelkasten/What matters in a group assignment.md",
     "Zettelkasten/What is a good idea?.md",
-    "Zettelkasten/Value of coming to class.md",
-    "Zettelkasten/Topology.md",
-    "Zettelkasten/There is NO easy degree.md",
-    "Zettelkasten/Taking attendance as a security measure.md",
-    "Zettelkasten/System thinking vs. Analysis.md",
-    "Zettelkasten/System thinking in today's organizations.md",
-    "Zettelkasten/System Thinking in relation to Digital Thinking.md",
-    "Zettelkasten/System Thinking.md",
-    "Zettelkasten/System Decomposition.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
     "Files/Screenshot from 2023-08-08 10-54-50.png",
     "OSI and TCP",
     "Templates",

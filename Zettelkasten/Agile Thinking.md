@@ -1,7 +1,5 @@
 ---
-date: 2023-08-08
-time: 18:32
-tags: []
+id: "202308081832"
 title: Agile Thinking
 ---
 

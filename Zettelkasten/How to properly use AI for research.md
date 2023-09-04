@@ -1,9 +1,5 @@
 ---
-date: 2023-08-16
-time: 09:38
-tags:
-  - Academia
-  - AI
+id: "202308160938"
 title: How to properly use AI for research
 ---
 
