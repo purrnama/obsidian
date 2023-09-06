@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 01:19
-tags:
-  - System Thinking
+id: "202308040119"
 title: System Decomposition
 ---
 

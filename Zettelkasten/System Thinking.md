@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 01:17
-tags:
-  - OSCA
+id: "202308040117"
 title: System Thinking
 ---
 

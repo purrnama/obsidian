@@ -1,9 +1,5 @@
 ---
-date: 2023-08-16
-time: 09:43
-tags:
-  - University Life
-  - OSCA
+id: "202308160943"
 title: What matters in a group assignment
 ---
 

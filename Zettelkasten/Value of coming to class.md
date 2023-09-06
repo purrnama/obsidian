@@ -1,9 +1,5 @@
 ---
-date: 2023-08-04
-time: 08:02
-tags:
-  - University Life
-  - Learning
+id: "202308040802"
 title: Value of coming to class
 ---
 

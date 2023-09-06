@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 01:20
-tags:
-  - System Thinking
+id: "202308040120"
 title: System Abstraction
 ---
 

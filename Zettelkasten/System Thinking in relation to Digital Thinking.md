@@ -1,8 +1,5 @@
 ---
-date: 2023-08-16
-time: 09:02
-tags:
-  - System Thinking
+id: "202308160902"
 title: System Thinking in relation to Digital Thinking
 ---
 

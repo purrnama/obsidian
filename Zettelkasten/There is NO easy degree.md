@@ -1,9 +1,5 @@
 ---
-date: 2023-08-08
-time: 09:41
-tags:
-  - University Life
-  - Academia
+id: "202308080941"
 title: There is NO easy degree
 ---
 

@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 01:14
-tags:
-  - OSCA
+id: "202308040114"
 title: Windows desktop analogy
 ---
 

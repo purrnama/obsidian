@@ -1,9 +1,5 @@
 ---
-date: 2023-08-16
-time: 09:47
-tags:
-  - OSCA
-  - Academia
+id: "202308160947"
 title: Why plagiarism is bad
 ---
 

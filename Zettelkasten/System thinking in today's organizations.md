@@ -1,8 +1,5 @@
 ---
-date: 2023-08-22
-time: 16:40
-tags:
-  - System Thinking
+id: "202308221640"
 title: System thinking in today's organizations
 ---
 

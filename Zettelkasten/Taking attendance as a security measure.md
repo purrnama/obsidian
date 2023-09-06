@@ -1,8 +1,5 @@
 ---
-date: 2023-08-04
-time: 00:59
-tags:
-  - University Life
+id: "202308040059"
 title: Taking attendance as a security measure
 ---
 

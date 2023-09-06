@@ -1,8 +1,5 @@
 ---
-date: 2023-08-22
-time: 16:29
-tags:
-  - System Thinking
+id: "202308221629"
 title: System thinking vs. Analysis
 ---
 

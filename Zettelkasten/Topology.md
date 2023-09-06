@@ -1,8 +1,5 @@
 ---
-date: 2023-08-21
-time: 23:02
-tags:
-  - Data Link Layer
+id: "202308212302"
 title: Topology
 ---
 

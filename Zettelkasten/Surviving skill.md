@@ -1,10 +1,8 @@
 ---
-date: 2023-09-04
-time: 20:43
-tags:
-  - System Thinking
+id: "202309042043"
 title: Skill of surviving
 ---
+
 The behavior of our survival instincts can be described as follows:
 
 - Making sense of our surrounding
